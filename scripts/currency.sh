@@ -1,0 +1,1 @@
+echo "ETH: $(curl -s rate.sx/1ETH)"
